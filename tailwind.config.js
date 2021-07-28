@@ -24,6 +24,13 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+      // custom colors
+      mine: colors.mine,
+      polar: colors.polar,
+      twilight: colors.twilight,
+      oslo: colors.oslo,
+      selago: colors.selago,
+      emperor: colors.emperor,
     },
     spacing: {
       px: "1px",
@@ -61,6 +68,16 @@ module.exports = {
       72: "18rem",
       80: "20rem",
       96: "24rem",
+      // custom spacing
+      "5px": "5px",
+      "6px": "6px",
+      "13px": "13px",
+      "14px": "14px",
+      "18px": "18px",
+      "44px": "44px",
+      // custom variable width
+      "15833vw": "15.833vw",
+      "16042vw": "16.042vw",
     },
     animation: {
       none: "none",
@@ -150,6 +167,8 @@ module.exports = {
       "2xl": "1rem",
       "3xl": "1.5rem",
       full: "9999px",
+      // custom border radius
+      "3px": "3px",
     },
     borderWidth: {
       DEFAULT: "1px",
@@ -157,6 +176,8 @@ module.exports = {
       2: "2px",
       4: "4px",
       8: "8px",
+      // custom border width
+      "1px": "1px",
     },
     boxShadow: {
       sm: "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
@@ -294,6 +315,14 @@ module.exports = {
       "7xl": ["4.5rem", { lineHeight: "1" }],
       "8xl": ["6rem", { lineHeight: "1" }],
       "9xl": ["8rem", { lineHeight: "1" }],
+      // custom font size
+      "8px-9px": ["8px", { lineHeight: "9px" }],
+      "9px-10px": ["9px", { lineHeight: "10px" }],
+      "10px-12px": ["10px", { lineHeight: "12px" }],
+      "11px-13px": ["11px", { lineHeight: "13px" }],
+      "12px-14px": ["12px", { lineHeight: "14px" }],
+      "16px-19px": ["16px", { lineHeight: "19px" }],
+      "26px-31px": ["26px", { lineHeight: "31px" }],
     },
     fontWeight: {
       thin: "100",
@@ -497,6 +526,9 @@ module.exports = {
       wide: "0.025em",
       wider: "0.05em",
       widest: "0.1em",
+      // custom letter spacing
+      "-004": "-0.04em",
+      "002": "0.02em",
     },
     lineHeight: {
       none: "1",
