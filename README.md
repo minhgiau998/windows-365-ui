@@ -1,57 +1,81 @@
-# Tailwind CSS Playground
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+# Windows UI 365 Design 🎨
 
-To get started:
+This website is a blueprint for Windows UI 365. Designed by [FreebieSupply](https://freebiesupply.com/free-figma/windows-365-dashboard/).
+## Demo
 
-1. Clone the repository:
+[windows-365-ui.vercel.app](https://windows-365-ui.vercel.app)
 
-   ```bash
-   git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
 
-   cd tailwindcss-playground
-   ```
+  
 
-2. Install the dependencies:
+## Screenshots
 
-   ```bash
-   # Using npm
-   npm install
+![demo.png](https://raw.githubusercontent.com/minhgiau998/richnguyen/master/images/project-1.png)
+  ## Color Reference
 
-   # Using Yarn
-   yarn
-   ```
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Mine Shaft | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
+| Polar | ![#E7F4F9](https://via.placeholder.com/10/E7F4F9?text=+) #E7F4F9 |
+| Twilight Blue | ![#F8FEFF](https://via.placeholder.com/10/F8FEFF?text=+) #F8FEFF |
+| Oslo Gray | ![#7F858A](https://via.placeholder.com/10/7F858A?text=+) #7F858A |
+| Selago | ![#F4F7FD](https://via.placeholder.com/10/F4F7FD?text=+) #F4F7FD |
+| Emperor | ![#4F4F4F](https://via.placeholder.com/10/4F4F4F?text=+) #4F4F4F |
 
-3. Start the development server:
 
-   ```bash
-   # Using npm
-   npm run serve
+## Tech Stack
 
-   # Using Yarn
-   yarn serve
-   ```
+**Client:** TailwindCSS
 
-   Now you should be able to see the project running at localhost:8080.
+**Server:** Node
 
-4. Open `public/index.html` in your editor and start experimenting!
+  
+## Authors
 
-## Play with it on CodeSandbox
+- [@minhgiau998](https://github.com/minhgiau998)
 
-A CodeSandbox version of this playground [is one click away](https://codesandbox.io/s/github/tailwindcss/playground/tree/master)!
+  
+## Run Locally
 
-## Building for production
+Clone the repository
 
-Even though this isn't necessarily a starter kit for a proper project, we've included an example of setting up [cssnano](https://cssnano.co/) to optimize your CSS for production.
+```bash
+git clone https://github.com/minhgiau998/windows-365-ui.git windows-365-ui
 
-To build an optimized version of your CSS, simply run:
+cd windows-365-ui
+```
+
+Install the dependencies
 
 ```bash
 # Using npm
-npm run production
+npm install
 
 # Using Yarn
-yarn production
+yarn
 ```
 
-After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+Start the development server
+
+```bash
+# Using npm
+npm run serve
+
+# Using Yarn
+yarn serve
+```
+
+Now you should be able to see the project running at localhost:8080.
+
+Open ```public/index.html``` in your editor and start experimenting!
+
+  
+## Support
+
+Please ⭐️ this repository if this project helped you!
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
