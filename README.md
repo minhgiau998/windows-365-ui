@@ -11,7 +11,7 @@ This website is a blueprint for Windows UI 365. Designed by [FreebieSupply](http
 
 ## Screenshots
 
-![demo.png](https://raw.githubusercontent.com/minhgiau998/richnguyen/master/images/project-1.png)
+![demo.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e96e4ffb-0ac8-4eda-ae34-bebec58ace09/deowd3o-1f0115bc-525b-4f03-bc98-d07502173704.png/v1/fill/w_1147,h_696,q_70,strp/windows_ui_365_by_minhgiau998_deowd3o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzc3IiwicGF0aCI6IlwvZlwvZTk2ZTRmZmItMGFjOC00ZWRhLWFlMzQtYmViZWM1OGFjZTA5XC9kZW93ZDNvLTFmMDExNWJjLTUyNWItNGYwMy1iYzk4LWQwNzUwMjE3MzcwNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wBvpOsN8h0JbtgxgZFxaBFO6Yz2bCQaZwt7-08rNbV0)
   ## Color Reference
 
 | Color             | Hex                                                                |
